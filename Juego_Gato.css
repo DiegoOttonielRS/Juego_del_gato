@@ -1,0 +1,60 @@
+#body{
+ position:absolute;
+ width: 550px;
+ height: 550px;
+ left: 50%;
+ top: 50%;
+ margin-left: -275px;
+ margin-top: -275px;
+}
+
+button{
+ width: 150px;
+ height: 150px;
+ border: none;
+ position: absolute;
+ font-size: 100px;
+ color:white;
+}
+.clicked{
+ background-color: gray;
+}
+
+#b11{
+ top:25px;
+ left:25px;
+}
+#b12{
+ top:25px;
+ left:200px;
+}
+#b13{
+ top:25px;
+ left:375px;
+}
+
+#b14{
+ top:200px;
+ left:25px;
+}
+#b15{
+ top:200px;
+ left:200px;
+}
+#b16{
+ top:200px;
+ left:375px;
+}
+
+#b17{
+ top:375px;
+ left:25px;
+}
+#b18{
+ top:375px;
+ left:200px;
+}
+#b19{
+ top:375px;
+ left:375px;
+}
